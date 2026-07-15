@@ -1,9 +1,17 @@
+<div align="center">
+
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ✨ DEVA M ✨
-   AI Solutions Builder | ECE Engineer
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
+
+        ✨ 🤖 DEVA M 🤖 ✨
+        
+    🔧 AI Solutions Builder 🔧
+    💡 ECE Engineer | Tech Innovator 💡
+    
+🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 ```
+
+</div>
 
 <h2 align="center">🤖 AI Solutions Builder | Tech Enthusiast | Electronics Engineer</h2>
 
@@ -43,10 +51,10 @@ I'm **Deva M**, an ECE engineering student with a passion for **bridging hardwar
 
 An intelligent access control system powered by AI, featuring:
 
-- **Secure Authentication** – Multi-layer verification mechanism
-- **AI-Optimized Performance** – Minimal latency response for critical scenarios
-- **Fault-Tolerant Architecture** – Self-healing nodes for 24/7 reliability
-- **Smart Sensors Integration** – Real-time monitoring and decision-making
+- **AI-Powered Threat Detection** – Detects suspicious persons, masked individuals, and dangerous objects in real time using YOLOv8 and OpenCV
+- **Smart Face Recognition** – Identifies registered owner using DeepFace and triggers instant Telegram alerts with photo evidence when a stranger is detected
+- **Emergency Escalation System** – Automatically escalates alerts to family members if owner does not respond within 60 seconds or presses DANGER
+- **Evidence Storage & Management** – Saves all intruder images with timestamp and alert details in MongoDB database for future reference and investigation
 
 *Showcasing the intersection of embedded systems, AI logic, and practical engineering.*
 
