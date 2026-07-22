@@ -1,15 +1,12 @@
 <div align="center">
 
-```
-🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
+<h1 style="font-family: 'Times New Roman', Georgia, serif; color: #8B4513; font-size: 64px; letter-spacing: 3px; margin-bottom: 0;">
+  DEVA M
+</h1>
 
-        ✨ 🤖 DEVA M 🤖 ✨
-        
-    🔧 AI Solutions Builder 🔧
-    💡 ECE Engineer | Tech Innovator 💡
-    
-🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
-```
+<div style="display: inline-block; text-align: left; font-family: 'Times New Roman', Georgia, serif; color: #555555; font-size: 20px; text-indent: 1.7em; margin-top: 6px;">
+  An Engineer Converting Ideas into Solutions
+</div>
 
 </div>
 
@@ -39,9 +36,9 @@ I'm **Deva M**, an ECE engineering student with a passion for **bridging hardwar
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-**Languages:** Python • Java • SQL  
-**Core Interests:** AI Development • Embedded Systems • Smart Systems  
-**Soft Skills:** Problem-Solving • Innovation • Collaboration  
+**Languages:** Python • Java • SQL
+**Core Interests:** AI Development • Embedded Systems • Smart Systems
+**Soft Skills:** Problem-Solving • Innovation • Collaboration
 
 ---
 
@@ -51,10 +48,10 @@ I'm **Deva M**, an ECE engineering student with a passion for **bridging hardwar
 
 An intelligent access control system powered by AI, featuring:
 
-- **AI-Powered Threat Detection** – Detects suspicious persons, masked individuals, and dangerous objects in real time using YOLOv8 and OpenCV
-- **Smart Face Recognition** – Identifies registered owner using DeepFace and triggers instant Telegram alerts with photo evidence when a stranger is detected
-- **Emergency Escalation System** – Automatically escalates alerts to family members if owner does not respond within 60 seconds or presses DANGER
-- **Evidence Storage & Management** – Saves all intruder images with timestamp and alert details in MongoDB database for future reference and investigation
+* **AI-Powered Threat Detection** – Detects suspicious persons, masked individuals, and dangerous objects in real time using YOLOv8 and OpenCV
+* **Smart Face Recognition** – Identifies registered owner using DeepFace and triggers instant Telegram alerts with photo evidence when a stranger is detected
+* **Emergency Escalation System** – Automatically escalates alerts to family members if owner does not respond within 60 seconds or presses DANGER
+* **Evidence Storage & Management** – Saves all intruder images with timestamp and alert details in MongoDB database for future reference and investigation
 
 *Showcasing the intersection of embedded systems, AI logic, and practical engineering.*
 
@@ -62,11 +59,11 @@ An intelligent access control system powered by AI, featuring:
 
 ## 🎓 Background
 
-**B.E. Electronics & Communication Engineering**  
-V.S.B Engineering College, Karur  
+**B.E. Electronics & Communication Engineering**
+V.S.B Engineering College, Karur
 CGPA: Above 7.5 | Currently Pursuing
 
-**Interests:** Core ECE • AI/ML Integration • IoT Solutions • System Design  
+**Interests:** Core ECE • AI/ML Integration • IoT Solutions • System Design
 
 ---
 
@@ -76,7 +73,7 @@ CGPA: Above 7.5 | Currently Pursuing
   <a href="https://linkedin.com/in/deva-dev-a35862272">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:devmurugesan85@gmail.com">
+  <a href="mailto:[devmurugesan85@gmail.com](mailto:devmurugesan85@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <img src="https://img.shields.io/badge/Location-Tiruppur%2C%20Tamil%20Nadu-informational?style=for-the-badge" alt="Location">
