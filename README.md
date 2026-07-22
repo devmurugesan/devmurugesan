@@ -1,16 +1,6 @@
 <div align="center">
 
-<div style="background-color: #07134F; padding: 35px 20px; border-radius: 12px;">
-
-<h1 style="font-family: Impact, Haettenschweiler, 'Arial Black', sans-serif; font-size: 90px; font-weight: 900; color: #FFA500; letter-spacing: 1px; line-height: 0.9; margin: 0;">
-DEVA M
-</h1>
-
-<p style="font-family: Georgia, serif; font-size: 15px; color: white; margin-top: 18px;">
-<i>"Creativity never stops, and the magic happens when you keep building."</i>
-</p>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=07134F&height=260&section=header&text=DEVA%20M&fontSize=100&fontColor=FFA500&fontAlignY=42&desc=%22Creativity%20never%20stops%2C%20and%20the%20magic%20happens%20when%20you%20keep%20building.%22&descSize=15&descAlignY=72&descColor=FFFFFF&font=Anton" width="100%">
 
 </div>
 
