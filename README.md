@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=07134F&height=260&section=header&text=DEVA%20M&fontSize=100&fontColor=FFA500&fontAlignY=42&desc=%22Creativity%20never%20stops%2C%20and%20the%20magic%20happens%20when%20you%20keep%20building.%22&descSize=15&descAlignY=72&descColor=FFFFFF&font=Anton" width="100%">
+<img src="./github-banner.png" width="100%" alt="Turning Ideas into Practical Solutions">
 
 </div>
 
