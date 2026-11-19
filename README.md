@@ -1,8 +1,5 @@
-<div align="center">
+<img width="2048" height="768" alt="From Ideas to Practical Solutions" src="https://github.com/user-attachments/assets/0db0321e-ebda-464f-b707-12638414a8bc" />
 
-<img src="https://raw.githubusercontent.com/devmurugesan/devmurugesan/main/github-banner.png" width="100%" alt="Turning Ideas into Practical Solutions">
-
-</div>
 
 <h2 align="center">🤖 AI Solutions Builder | Tech Enthusiast | Electronics and Communication Engineer</h2>
 
