@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Turning Ideas into Practical Solutions">
+<img src="https://raw.githubusercontent.com/devmurugesan/devmurugesan/main/github-banner.png" width="100%" alt="Turning Ideas into Practical Solutions">
 
 </div>
 
